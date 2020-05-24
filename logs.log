@@ -1,0 +1,33 @@
+2020-05-24 15:59:57,198 INFO u.BaseHooks [main] Драйвер поднят
+2020-05-24 16:00:00,225 INFO p.MainPage [main] Перешли на https://otus.ru/
+2020-05-24 16:00:00,850 INFO p.MainPage [main] Кликнули по кнопке Вход и регистрация
+2020-05-24 16:00:01,336 INFO p.LoginPage [main] Ввели email
+2020-05-24 16:00:01,520 INFO p.LoginPage [main] Ввели пароль
+2020-05-24 16:00:02,034 INFO p.LoginPage [main] Кликнули по кнопке Войти
+2020-05-24 16:00:05,773 INFO p.PersonalAccountPage [main] Навели мышкой на свое имя
+2020-05-24 16:00:05,862 INFO p.PersonalAccountPage [main] Дождались пока элемент Мой профиль будет виден
+2020-05-24 16:00:07,434 INFO p.PersonalAccountPage [main] ВКликнули по кнопке Мой профиль
+2020-05-24 16:00:08,668 INFO p.BiographyPage [main] Ввели имя латиницей
+2020-05-24 16:00:08,836 INFO p.BiographyPage [main] Ввели фамилию латиницей
+2020-05-24 16:00:09,380 INFO p.BiographyPage [main] Нажали на способ связи
+2020-05-24 16:00:09,660 INFO p.BiographyPage [main] Добавили способ связи: Viber
+2020-05-24 16:00:09,819 INFO p.BiographyPage [main] Ввели номер телефона в первый способ связи
+2020-05-24 16:00:10,070 INFO p.BiographyPage [main] Добавили еще один способ связи
+2020-05-24 16:00:10,468 INFO p.BiographyPage [main] Добавили способ связи: Telegram
+2020-05-24 16:00:10,629 INFO p.BiographyPage [main] Ввели номер телефона во второй способ связи
+2020-05-24 16:00:12,238 INFO p.BiographyPage [main] Нажали на Сохранить и заполнить позже
+2020-05-24 16:00:12,986 INFO p.MainPage [main] Переключились на новое онко, перед этим закрыв старую вкладку и удалив куки
+2020-05-24 16:00:15,943 INFO p.MainPage [main] Перешли на https://otus.ru/
+2020-05-24 16:00:16,810 INFO p.MainPage [main] Кликнули по кнопке Вход и регистрация
+2020-05-24 16:00:17,251 INFO p.LoginPage [main] Ввели email
+2020-05-24 16:00:17,414 INFO p.LoginPage [main] Ввели пароль
+2020-05-24 16:00:17,549 INFO p.LoginPage [main] Кликнули по кнопке Войти
+2020-05-24 16:00:19,563 INFO p.PersonalAccountPage [main] Навели мышкой на свое имя
+2020-05-24 16:00:19,627 INFO p.PersonalAccountPage [main] Дождались пока элемент Мой профиль будет виден
+2020-05-24 16:00:21,130 INFO p.PersonalAccountPage [main] ВКликнули по кнопке Мой профиль
+2020-05-24 16:00:21,130 INFO p.BiographyPage [main] Сравнили значение имени
+2020-05-24 16:00:21,895 INFO p.BiographyPage [main] Сравнили значение фамилии
+2020-05-24 16:00:22,007 INFO p.BiographyPage [main] Сравнили значение первоко контакта
+2020-05-24 16:00:22,102 INFO p.BiographyPage [main] Сравнили значение второго контакта
+2020-05-24 16:00:22,619 INFO u.BaseHooks [main] Удалили куки, после теста
+2020-05-24 16:00:23,419 INFO u.BaseHooks [main] Закрыли драйвер, после теста
