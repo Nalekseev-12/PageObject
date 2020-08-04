@@ -17,7 +17,7 @@ public class BiographyPage extends AbstractPage {
     private By communicationMethodTelegram = By.xpath("//*[@class='lk-cv-block__select-options lk-cv-block__select-options_left js-custom-select-options-container']/div/button[@data-value='telegram']");
     private By firstContactValue = By.xpath("//*[@name='contact-0-value']");
     private By secondContactValue = By.xpath("//*[@name='contact-1-value']");
-    private By buttonSubmit = By.xpath("//*[@title='Сохранить и заполнить позже']");
+    private By buttonSubmit = By.xpath("//*[@class='lk-cv-action-buttons']/button[2]");
     private By buttonAdd = By.xpath("//*[@class='lk-cv-block__action lk-cv-block__action_md-no-spacing js-formset-add js-lk-cv-custom-select-add']");
     private Logger logger = LogManager.getLogger(BiographyPage.class);
 
