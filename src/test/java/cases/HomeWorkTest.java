@@ -15,7 +15,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import pages.*;
 import utils.BaseHooks;
 
-public class HomeWork extends BaseHooks {
+public class HomeWorkTest extends BaseHooks {
     @Test
     public void HomeWorkPageObjects () {
        MainPage mainPage = new MainPage(driver);
