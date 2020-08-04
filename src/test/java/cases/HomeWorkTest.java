@@ -19,8 +19,8 @@ public class HomeWorkTest extends BaseHooks {
     @Test
     public void HomeWorkPageObjects () {
        MainPage mainPage = new MainPage(driver);
-       String email = "alekse-nikita@yandex.ru";
-       String password = "nav1@AEV";
+       String email = "test";
+       String password = "test";
        String name = "Nikita";
        String surname = "Alekseev";
        String firstContact = "12345678";
