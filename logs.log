@@ -38,3 +38,36 @@
 2020-08-04 15:02:36,868 INFO p.LoginPage [main] Ввели пароль
 2020-08-04 15:02:37,382 INFO p.LoginPage [main] Кликнули по кнопке Войти
 2020-08-04 15:02:43,788 INFO u.BaseHooks [main] Закрыли драйвер, после теста
+2020-08-04 15:10:35,900 INFO u.BaseHooks [main] Драйвер поднят
+2020-08-04 15:10:38,600 INFO p.MainPage [main] Перешли на https://otus.ru/
+2020-08-04 15:10:39,596 INFO p.MainPage [main] Кликнули по кнопке Вход и регистрация
+2020-08-04 15:10:40,479 INFO p.LoginPage [main] Ввели email
+2020-08-04 15:10:40,665 INFO p.LoginPage [main] Ввели пароль
+2020-08-04 15:10:40,807 INFO p.LoginPage [main] Кликнули по кнопке Войти
+2020-08-04 15:10:43,249 INFO p.PersonalAccountPage [main] Навели мышкой на свое имя
+2020-08-04 15:10:43,366 INFO p.PersonalAccountPage [main] Дождались пока элемент Мой профиль будет виден
+2020-08-04 15:10:45,921 INFO p.PersonalAccountPage [main] ВКликнули по кнопке Мой профиль
+2020-08-04 15:10:47,079 INFO p.BiographyPage [main] Ввели имя латиницей
+2020-08-04 15:10:47,266 INFO p.BiographyPage [main] Ввели фамилию латиницей
+2020-08-04 15:10:47,478 INFO p.BiographyPage [main] Нажали на способ связи
+2020-08-04 15:10:47,784 INFO p.BiographyPage [main] Добавили способ связи: Viber
+2020-08-04 15:10:48,003 INFO p.BiographyPage [main] Ввели номер телефона в первый способ связи
+2020-08-04 15:10:48,335 INFO p.BiographyPage [main] Добавили еще один способ связи
+2020-08-04 15:10:48,739 INFO p.BiographyPage [main] Добавили способ связи: Telegram
+2020-08-04 15:10:48,943 INFO p.BiographyPage [main] Ввели номер телефона во второй способ связи
+2020-08-04 15:10:49,988 INFO p.BiographyPage [main] Нажали на Сохранить и заполнить позже
+2020-08-04 15:10:51,098 INFO p.MainPage [main] Переключились на новое онко, перед этим закрыв старую вкладку и удалив куки
+2020-08-04 15:10:53,629 INFO p.MainPage [main] Перешли на https://otus.ru/
+2020-08-04 15:10:54,300 INFO p.MainPage [main] Кликнули по кнопке Вход и регистрация
+2020-08-04 15:10:54,830 INFO p.LoginPage [main] Ввели email
+2020-08-04 15:10:55,015 INFO p.LoginPage [main] Ввели пароль
+2020-08-04 15:10:55,166 INFO p.LoginPage [main] Кликнули по кнопке Войти
+2020-08-04 15:10:57,260 INFO p.PersonalAccountPage [main] Навели мышкой на свое имя
+2020-08-04 15:10:57,326 INFO p.PersonalAccountPage [main] Дождались пока элемент Мой профиль будет виден
+2020-08-04 15:11:00,531 INFO p.PersonalAccountPage [main] ВКликнули по кнопке Мой профиль
+2020-08-04 15:11:00,531 INFO p.BiographyPage [main] Сравнили значение имени
+2020-08-04 15:11:00,631 INFO p.BiographyPage [main] Сравнили значение фамилии
+2020-08-04 15:11:00,726 INFO p.BiographyPage [main] Сравнили значение первоко контакта
+2020-08-04 15:11:00,821 INFO p.BiographyPage [main] Сравнили значение второго контакта
+2020-08-04 15:11:01,428 INFO u.BaseHooks [main] Удалили куки, после теста
+2020-08-04 15:11:02,268 INFO u.BaseHooks [main] Закрыли драйвер, после теста
